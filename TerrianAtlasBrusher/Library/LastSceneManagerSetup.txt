@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Content/Test000/HikiTestScene.unity
+  isLoaded: 1
+  isActive: 1
