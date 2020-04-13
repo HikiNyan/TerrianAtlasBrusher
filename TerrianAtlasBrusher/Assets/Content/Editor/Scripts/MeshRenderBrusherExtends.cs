@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-//[CustomEditor(typeof(BoxCollider))]
+[CustomEditor(typeof(BoxCollider))]
 [CanEditMultipleObjects]
 public class MeshRenderBrusherExtends : UnityEditor.Editor
 {

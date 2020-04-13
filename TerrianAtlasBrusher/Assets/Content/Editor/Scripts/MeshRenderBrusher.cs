@@ -9,7 +9,7 @@ public class MeshRenderBrusher : EditorWindow
 	static public Transform CurrentSelect;
 	
 	//路径
-	string T4MEditorFolder = "Assets/TerrianAtlasBrusher/Editor/EditorIcons/";
+	string T4MEditorFolder = "Assets/Content/Editor/EditorIcons/";
 	static public string T4MActived = "Activated";
 	
 	static int nbrT4MObj;
